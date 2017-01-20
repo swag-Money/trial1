@@ -1,0 +1,3 @@
+git add file2
+git commit -m "made a new file"
+git push
